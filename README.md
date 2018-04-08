@@ -33,3 +33,4 @@ it looks at the url and gets the specific content file. That's a dynamic route.
 
 So If you create a `folder` type with Netlify CMS, add the folder as glob to the `dynamicRoutes` variable
 in the `nuxt.config.js`.
+ y
